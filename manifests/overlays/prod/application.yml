@@ -32,3 +32,4 @@ management:
 
 pvc:
   path: /mnt/cloud-sample
+
